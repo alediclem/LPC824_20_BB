@@ -52,4 +52,4 @@ Fully tested except for RX and TX LEDs which I didn't solder on my test board. I
 
 **Please contact me if you are interested in schematics or gerber files.**
 
-![Image not found](LPC824_20_BB_assembly.jpg "Partially assembled board")
+![Image not found](LPC824_20_BB_assembly.JPG "Partially assembled board")
